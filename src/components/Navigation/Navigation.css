@@ -1,0 +1,8 @@
+nav {
+  position: fixed, center;
+  border: 1px solid black;
+}
+
+nav li {
+  list-style: none;
+}

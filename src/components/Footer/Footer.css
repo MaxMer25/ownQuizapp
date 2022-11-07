@@ -1,0 +1,26 @@
+.footerContainer {
+  display: flex;
+  border-top: 2px solid black;
+  margin-top: 10%;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: aliceblue;
+}
+
+.imgContainer {
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+  width: 25%;
+}
+
+.imgContainer svg {
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.highlighted.imgContainer {
+  background-color: lightskyblue;
+}
